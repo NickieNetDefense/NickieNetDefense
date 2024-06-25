@@ -2,7 +2,6 @@
 <h3>🔒🖥️ Security / IT Projects 🖥️🔒</h3>
 
 - [Creating a Customer Feedback Analysis System with NLP & Python](https://github.com/NickieNetDefense/Customer_Feedback_Analysis_System)
-- [
 
 <h3>📜 Certifications 📜</h3>
 
