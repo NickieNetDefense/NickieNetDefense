@@ -12,6 +12,9 @@
 
 - [XM Cyber - Exposure Management Expert](https://www.credly.com/earner/earned/badge/0ca150d2-b7f9-45e7-9157-5c84fb4e5fae)
 
+<h3>🧪🥼 Lab Work🥼 🧪</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ellis.perez.nick.png" alt="TryHackMe">
+
 <!--
 **NickieNetDefense/NickieNetDefense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
