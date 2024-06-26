@@ -1,6 +1,10 @@
 ## <h1>Hello World 👋 I'm Nickie, your Cyber Guardian, Welcome to my Security Stronghold!</h1>
 <h2>🔒🖥️ Security / IT Projects 🖥️🔒</h2>
 
+-Threat Modeling with OWASP Threat Dragon In Progress...
+
+<h2>🦾🧰 Machine Learning Projects 🧰🦾</h2>
+
 - [Creating a Customer Feedback Analysis System with NLP & Python](https://github.com/NickieNetDefense/Customer_Feedback_Analysis_System)
 
 <h2>📜 Certifications 📜</h2>
