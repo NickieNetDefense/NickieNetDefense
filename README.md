@@ -1,11 +1,30 @@
 ## <h1>Hello World 👋 I'm Nickie, your Cyber Guardian, Welcome to my Security Stronghold!</h1>
-<h2>🔒🖥️ Security / IT Projects 🖥️🔒</h2>
+<h2>🔒🖥️ Security Projects 🖥️🔒</h2>
+- Threat Modeling with OWASP Threat Dragon - In Progress...
+- An open-source tool used to create threat model diagrams, identify potential threats, and decide on mitigations as part of a secure development lifecycle.
 
--Threat Modeling with OWASP Threat Dragon In Progress...
+<h2>🏗️Solutions Architecture Projects🏗️</h2>
+- End-to-End Solution Design - In Progress...
+- Comprehensive design of end-to-end solutions to meet client needs.
 
-<h2>🦾🧰 Machine Learning Projects 🧰🦾</h2>
+- **Integration and API Management**
+  - Managing integrations and APIs to ensure seamless connectivity.
+  - [View Project](#) - In Progress
+- **Cloud Migration Project**
+  - Planning and executing cloud migration strategies.
+  - [View Project](#) - In Progress
+- **Microservices Architecture**
+  - Designing and implementing microservices architectures.
+  - [View Project](#) - In Progress
+- **DevOps Implementation**
+  - Implementing DevOps practices to streamline development and operations.
+  - [View Project](#) - In Progress
+- **Strategic IT Initiatives**
+  - Leading strategic IT initiatives to drive business value.
+- **Machine Learning Projects**
+  - [**Creating a Customer Feedback Analysis System with NLP & Python**](https://github.com/NickieNetDefense/Customer_Feedback_Analysis_System)
+    - A project focused on analyzing and visualizing customer feedback data using natural language processing (NLP) and Python.
 
-- [Creating a Customer Feedback Analysis System with NLP & Python](https://github.com/NickieNetDefense/Customer_Feedback_Analysis_System)
 
 <h2>📜 Certifications 📜</h2>
 
