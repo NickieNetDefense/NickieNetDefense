@@ -30,7 +30,7 @@
 
 <h2>📜 Certifications 📜</h2>
 
-- [CompTia Security+](https://www.credly.com/badges/9c161bf6-0202-407a-acd7-7548b3ece7ed/public_url))
+- [CompTia Security+](https://www.credly.com/badges/9c161bf6-0202-407a-acd7-7548b3ece7ed/public_url)
 - [(ISC)2 Certified in Cybersecurity](https://www.credly.com/badges/59b41494-6df7-495e-8731-5e7be77919d6/public_url)
 
 <h2>🏫 Courses 🏫</h2>
