@@ -35,7 +35,7 @@
 
 <h2>🏫 Courses 🏫</h2>
 
-- [XM Cyber - Exposure Management Expert](https://www.credly.com/earner/earned/badge/0ca150d2-b7f9-45e7-9157-5c84fb4e5fae)
+- [XM Cyber - Exposure Management Expert](https://www.credly.com/badges/0ca150d2-b7f9-45e7-9157-5c84fb4e5fae/public_url)
 
 <h2>🧪🥼 Lab Work🥼🧪</h2>
 
