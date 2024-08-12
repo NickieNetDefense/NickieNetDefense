@@ -1,5 +1,14 @@
 ## <h1>Hello World 👋 I'm Nickie, your Cyber Guardian, Welcome to my Security Stronghold!</h1>
 
+<h2>📜 Certifications 📜</h2>
+
+- [CompTia Security+](https://www.credly.com/badges/9c161bf6-0202-407a-acd7-7548b3ece7ed/public_url)
+- [(ISC)2 Certified in Cybersecurity](https://www.credly.com/badges/59b41494-6df7-495e-8731-5e7be77919d6/public_url)
+
+<h2>🏫 Courses 🏫</h2>
+
+- [XM Cyber - Exposure Management Expert](https://www.credly.com/badges/0ca150d2-b7f9-45e7-9157-5c84fb4e5fae/public_url)
+
 <h2>📊🛠️ Data Analytics Projects 🛠️📊</h2>
 
 Explore my data analytics projects, where I utilize tools like Excel, Tableau, and Python to transform data into actionable insights. These projects demonstrate my ability to analyze complex datasets, create compelling visualizations, and support data-driven decision-making.
@@ -45,15 +54,6 @@ Explore my work in designing and implementing end-to-end solutions, with a focus
 This section features my security-focused projects, including threat modeling and risk assessment. These projects illustrate my understanding of security principles and my ability to apply them to safeguard systems and data.
 
 - Threat Modeling with OWASP Threat Dragon - In Progress...
-
-<h2>📜 Certifications 📜</h2>
-
-- [CompTia Security+](https://www.credly.com/badges/9c161bf6-0202-407a-acd7-7548b3ece7ed/public_url)
-- [(ISC)2 Certified in Cybersecurity](https://www.credly.com/badges/59b41494-6df7-495e-8731-5e7be77919d6/public_url)
-
-<h2>🏫 Courses 🏫</h2>
-
-- [XM Cyber - Exposure Management Expert](https://www.credly.com/badges/0ca150d2-b7f9-45e7-9157-5c84fb4e5fae/public_url)
 
 <h2>🧪🥼 Lab Work🥼🧪</h2>
 
