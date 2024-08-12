@@ -1,4 +1,4 @@
-## <h1>Hello World 👋 I'm Nickie, your friendly neighborhood data detective, and cyber guardian! 🕵️‍♀️🔐 Dive into my world of data analytics, business analysis, and cybersecurity adventures. May the code be with you! </h1>
+## <h1>Hello World 👋 I'm Nickie, your friendly neighborhood data detective, and cyber guardian! 🕵️‍♀️🔐 </h1>
 
 <h2>📊🛠️ Data Analytics Projects 🛠️📊</h2>
 
