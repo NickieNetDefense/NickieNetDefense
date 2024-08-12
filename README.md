@@ -1,30 +1,35 @@
 ## <h1>Hello World 👋 I'm Nickie, your Cyber Guardian, Welcome to my Security Stronghold!</h1>
 
 <h2>📊🛠️ Data Analytics Projects 🛠️📊</h2>
+
 Explore my data analytics projects, where I utilize tools like Excel, Tableau, and Python to transform data into actionable insights. These projects demonstrate my ability to analyze complex datasets, create compelling visualizations, and support data-driven decision-making.
 
 - Technical Demos and Presentations - In Progress...
 - Proof of Concept (PoC) Projects - In Progress...
 
 <h2> 📈 Business Analysis Projects 📈 </h2>
+
 This section highlights my business analysis projects, showcasing my skills in identifying business needs, analyzing processes, and recommending data-driven solutions. These projects reflect my ability to bridge the gap between business objectives and technical execution.
 
 - Technical Product Analysis and Comparison - In Progress...
 - Client Technical Needs Assessment Tool - In Progress...
 
 <h2>💼 Relationship Management Projects 💼</h2>
+
 Discover projects focused on enhancing client relationships through effective onboarding, training, and cross-functional collaboration. These initiatives emphasize my commitment to improving client satisfaction and fostering strong partnerships.
 
 - [Client Onboarding and Training Programs](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs) - In Progress...
 - Cross-Functional Collaboration Projects - In Progress...
 
 <h2> 📈 Account Management Projects 📈 </h2>
+
 Here, I present projects that involve analyzing client needs and managing technical accounts. These projects demonstrate my ability to assess and address client requirements through strategic analysis and tailored solutions.
 
 - Technical Product Analysis and Comparison - In Progress...
 - Client Technical Needs Assessment Tool - In Progress...
 
 <h2>🏗️Solutions Architecture Projects🏗️</h2>
+
 Explore my work in designing and implementing end-to-end solutions, with a focus on integration, API management, and cloud migration. These projects highlight my skills in creating scalable and efficient architectures that support business goals.
 
 - End-to-End Solution Design - In Progress...
@@ -36,6 +41,7 @@ Explore my work in designing and implementing end-to-end solutions, with a focus
 - [Customer Feedback Analysis System with NLP & Python](https://github.com/NickieNetDefense/Customer_Feedback_Analysis_System)
 
 <h2>🔒🖥️ Security Projects 🖥️🔒</h2>
+
 This section features my security-focused projects, including threat modeling and risk assessment. These projects illustrate my understanding of security principles and my ability to apply them to safeguard systems and data.
 
 - Threat Modeling with OWASP Threat Dragon - In Progress...
