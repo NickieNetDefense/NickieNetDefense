@@ -63,7 +63,13 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
 
 <hr>
 
-<h2>🚀 Featured Cybersecurity & IT Projects</h2>
+<h2>🚀 Private IT Infrastructure & Security Environment</h2>
+
+<p>
+  This portfolio is built around a private, controlled virtual environment used to design,
+  configure, secure, troubleshoot, and validate Windows infrastructure, networking, identity,
+  monitoring, vulnerability management, cloud, and incident-response workflows.
+</p>
 
 <h3>
   <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration">
@@ -187,7 +193,7 @@ Scenario-driven incident response exercises covering ransomware, compromised cre
 
 <hr>
 
-<h2>📜 Certifications</h2>
+<h2>📜 Certifications & Continuous Learning</h2>
 
 <ul>
   <li>
@@ -200,20 +206,45 @@ Scenario-driven incident response exercises covering ransomware, compromised cre
       ISC2 Certified in Cybersecurity (CC)
     </a>
   </li>
+    <li>
+    <a href="https://www.credly.com/badges/0ca150d2-b7f9-45e7-9157-5c84fb4e5fae/public_url">
+      XM Cyber — Exposure Management Expert
+    </a>
+    — Exposure management, attack surface awareness, risk prioritization, and remediation concepts
+  </li>
 </ul>
 
 <hr>
 
-<h2>🧪 Labs & Continuous Learning</h2>
+<h2>🧪 External Platforms & Continuous Learning</h2>
 
 <ul>
+  <li>
+    <a href="https://learn.microsoft.com/">
+      Microsoft Applied Skills
+    </a>
+    — Hands-on Microsoft lab assessments covering identity, Azure, monitoring, and administration
+  </li>
+
+  <li>
+    <a href="https://skillbuilder.aws/">
+      AWS Skill Builder / Cloud Quest
+    </a>
+    — Browser-based AWS cloud architecture and security exercises
+  </li>
+
+  <li>
+    <a href="https://u.cisco.com/">
+      Cisco U.
+    </a>
+    — Networking and security hands-on labs
+  </li>
+
   <li>
     <a href="https://tryhackme.com/p/ellis.perez.nick">
       TryHackMe
     </a>
-  </li>
-  <li>
-    XM Cyber — Exposure Management Expert
+    — Hands-on cybersecurity labs and practical skill development
   </li>
 </ul>
 
@@ -222,7 +253,7 @@ Scenario-driven incident response exercises covering ransomware, compromised cre
 <h2>📊 Additional Technical Work</h2>
 
 <p>
-My background also includes data analysis, automation, API integration, technical documentation, business-process improvement, and translating technical findings into business decisions.
+My technical background also includes data analysis, automation, API integrations, technical documentation, implementation support, and translating technical findings into business decisions.
 </p>
 
 <ul>
@@ -237,7 +268,7 @@ My background also includes data analysis, automation, API integration, technica
     <a href="https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs">
       Client Onboarding & Training Programs
     </a>
-    — Technical documentation, training, governance, Power BI, user enablement
+    — SaaS implementation, technical documentation, user enablement, governance, Power BI
   </li>
 </ul>
 
