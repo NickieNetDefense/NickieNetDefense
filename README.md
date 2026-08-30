@@ -216,7 +216,7 @@ Scenario-driven incident response exercises covering ransomware, compromised cre
 
 <hr>
 
-<h2>🧪 External Platforms & Continuous Learning</h2>
+<h2>🧪 External Labs & Platforms</h2>
 
 <ul>
   <li>
