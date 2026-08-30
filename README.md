@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building hands-on experience across Windows Server, Active Directory, Microsoft 365, Entra ID, network security, SIEM, vulnerability management, cloud security, and incident response.
+  Designing, administering, securing, and troubleshooting enterprise-style infrastructure across Windows, identity, networking, cloud, monitoring, and security operations.
 </p>
 
 <hr>
@@ -15,11 +15,11 @@
 <h2>🛡️ About Me</h2>
 
 <p>
-I’m an IT and cybersecurity professional focused on building practical, hands-on experience across infrastructure, identity, networking, security operations, and cloud environments.
+I’m an IT and cybersecurity professional focused on infrastructure administration, identity, networking, security operations, and cloud environments.
 </p>
 
 <p>
-This GitHub portfolio documents the systems I build, the security controls I implement, the problems I troubleshoot, and the technical decisions behind each project.
+This GitHub portfolio documents the systems I build, the security controls I implement, the problems I troubleshoot, and the technical decisions behind each project. The portfolio is structured around foundational infrastructure projects first, followed by security, monitoring, remediation, cloud, and incident-response projects built on those same core concepts.
 </p>
 
 <p>
@@ -28,36 +28,36 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
 
 <hr>
 
-<h2>🔧 Core Technologies & Skills</h2>
+<h2>🔧 Core Infrastructure & Security Competencies</h2>
 
 <table>
   <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Windows Server, Active Directory, DNS, Group Policy, VMware</td>
+    <td><strong>Infrastructure Administration</strong></td>
+    <td>Windows Server, Active Directory, DNS, Group Policy, PowerShell, Oracle VirtualBox</td>
   </tr>
   <tr>
     <td><strong>Identity & Access</strong></td>
-    <td>Microsoft Entra ID, MFA, Conditional Access, RBAC, Least Privilege</td>
+    <td>Entra ID, IAM, MFA, Conditional Access, RBAC, Privileged Access, Least Privilege</td>
   </tr>
   <tr>
-    <td><strong>Network Security</strong></td>
-    <td>pfSense / OPNsense, VLANs, Routing, NAT, VPN, Firewall Rules, Segmentation</td>
+    <td><strong>Network Administration & Security</strong></td>
+    <td>TCP/IP, Subnetting, VLANs, Routing, DHCP, DNS, NAT, VPN, Segmentation, Firewall Policy, pfSense</td>
   </tr>
   <tr>
     <td><strong>Security Operations</strong></td>
-    <td>SIEM, Log Analysis, Alert Investigation, Detection Engineering, Incident Response</td>
+    <td>Centralized Logging, SIEM, Log Analysis, Detection, Alert Investigation, Event Correlation, Incident Response</td>
   </tr>
   <tr>
-    <td><strong>Vulnerability Management</strong></td>
-    <td>Scanning, CVSS, Risk Prioritization, Remediation, Validation</td>
+    <td><strong>Vulnerability & Exposure Management</strong></td>
+    <td>Asset Discovery, Vulnerability Scanning, CVSS, Risk Prioritization, Remediation, Rescanning, Validation</td>
   </tr>
   <tr>
-    <td><strong>Cloud Security</strong></td>
-    <td>AWS / Azure IAM, Networking, Logging, Monitoring, Least Privilege</td>
+    <td><strong>Cloud Infrastructure & Security</strong></td>
+    <td>Azure / AWS, IAM, Networking, Logging, Monitoring, Least Privilege</td>
   </tr>
   <tr>
-    <td><strong>Security Governance</strong></td>
-    <td>Risk Assessment, Remediation Planning, Business Continuity, Security Documentation</td>
+    <td><strong>Security Governance & Resilience</strong></td>
+    <td>Risk Assessment, Remediation Planning, Business Continuity, Incident Preparedness, Security Documentation</td>
   </tr>
 </table>
 
@@ -65,34 +65,44 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
 
 <h2>🚀 Featured Cybersecurity & IT Projects</h2>
 
-<h3>01 — Windows Server & Active Directory Security Lab</h3>
+<h3>
+  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration">
+    01 — Windows Infrastructure Administration
+  </a>
+</h3>
 
 <p>
-<strong>Status:</strong> In Development
+  Enterprise-style Windows Server environment focused on identity, authentication,
+  permissions, Group Policy, DNS, system hardening, automation, and administrative troubleshooting.
 </p>
 
 <p>
-Enterprise-style Windows Server environment focused on identity, authentication, permissions, Group Policy, DNS, system hardening, and administrative troubleshooting.
+  <strong>Technologies:</strong>
+  Windows Server 2025, Active Directory Domain Services, DNS, Group Policy,
+  PowerShell, Windows 11, Oracle VirtualBox
 </p>
 
 <p>
-<strong>Technologies:</strong> Windows Server, Active Directory Domain Services, DNS, Group Policy, PowerShell, VMware
+  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration">
+    View Repository →
+  </a>
 </p>
 
-<hr>
+<h3>02 — Network Administration & Firewall Security</h3>
 
-<h3>02 — Firewall & Network Security Lab</h3>
+<p><strong>Status:</strong> In Development</p>
 
 <p>
-<strong>Status:</strong> Planned
+  Enterprise-style network administration and firewall security project focused on
+  network segmentation, VLAN architecture, subnetting, routing, DHCP, NAT, firewall
+  policy, remote-access VPN, traffic analysis, logging, and systematic troubleshooting.
+  Security controls are validated using Nmap and Wireshark to confirm permitted and
+  denied traffic across segmented network zones.
 </p>
 
 <p>
-Segmented network environment demonstrating firewall architecture, VLANs, routing, NAT, VPN connectivity, security policy enforcement, logging, and troubleshooting.
-</p>
-
-<p>
-<strong>Technologies:</strong> pfSense / OPNsense, VLANs, TCP/IP, DNS, VPN, Firewall Policy
+  <strong>Technologies:</strong>
+  pfSense, VLANs, TCP/IP, Subnetting, DHCP, DNS, NAT, VPN, Nmap, Wireshark, Kali Linux
 </p>
 
 <hr>
@@ -104,7 +114,7 @@ Segmented network environment demonstrating firewall architecture, VLANs, routin
 </p>
 
 <p>
-Identity security environment focused on MFA, Conditional Access, RBAC, account compromise scenarios, auditing, privileged access, and least-privilege administration.
+Enterprise identity and SaaS administration project focused on access lifecycle management, Conditional Access, MFA, privileged access, auditing, and least-privilege controls using Microsoft 365 and Entra ID.
 </p>
 
 <p>
@@ -244,6 +254,23 @@ My background also includes data analysis, automation, API integration, technica
   <li>Documenting systems, findings, and remediation decisions</li>
   <li>Communicating technical issues clearly to both technical and business audiences</li>
 </ul>
+
+<hr>
+
+<h2>🏗️ Architecture & Tooling Philosophy</h2>
+
+<p>
+  This portfolio is built around foundational infrastructure and security concepts first,
+  with vendor-specific tooling used to demonstrate how those concepts are implemented 
+  across different technical and business environments.
+</p>
+
+<p>
+  Core projects focus on architecture, administration, security, troubleshooting, and
+  validation. Smaller vendor-specific modules demonstrate how the same underlying controls
+  can be implemented within technologies selected based on organizational requirements,
+  existing infrastructure, budget, risk, and operational priorities.
+</p>
 
 <hr>
 
