@@ -71,11 +71,9 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
   monitoring, vulnerability management, cloud, and incident-response workflows.
 </p>
 
-<h3>
-  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration">
-    01 — Windows Infrastructure Administration
-  </a>
-</h3>
+<hr>
+
+<h3>01 — Windows Infrastructure Administration</h3>
 
 <p>
   Enterprise-style Windows Server environment focused on identity, authentication,
@@ -90,13 +88,25 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
 
 <p>
   <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration">
-    View Repository →
+    View Project →
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration/blob/main/diagrams/lab-architecture.png">
+    View Topology →
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration/tree/main/screenshots">
+    View Evidence →
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration#troubleshooting-and-recovery">
+    View Documentation →
   </a>
 </p>
 
-<h3>02 — Network Administration & Firewall Security</h3>
+<hr>
 
-<p><strong>Status:</strong> In Development</p>
+<h3>02 — Network Administration & Firewall Security</h3>
 
 <p>
 Enterprise-style network infrastructure environment focused on segmentation, routing,
@@ -106,6 +116,24 @@ firewall policy, secure connectivity, traffic analysis, logging, and administrat
 <p>
   <strong>Technologies:</strong>
   pfSense, VLANs, TCP/IP, Subnetting, Routing, DHCP, DNS, NAT, VPN, Nmap, Wireshark, Kali Linux
+</p>
+
+<p>
+  <a href="https://github.com/NickieNetDefense/Network_infrastructure_administration">
+    View Project →
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="TOPOLOGY_LINK">
+    View Topology →
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/NickieNetDefense/Network_infrastructure_administration/blob/main/documentation/evidence-index.md">
+    View Evidence →
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/NickieNetDefense/Network_infrastructure_administration/tree/main/documentation">
+    View Documentation →
+  </a>
 </p>
 
 <hr>
