@@ -141,7 +141,7 @@ firewall policy, secure connectivity, traffic analysis, logging, and administrat
 <h3>03 — Microsoft 365 & Entra Security</h3>
 
 <p>
-<strong>Status:</strong> Planned
+<strong>Status:</strong> In Development
 </p>
 
 <p>
