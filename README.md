@@ -99,7 +99,7 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
   View Evidence →
 </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration#troubleshooting-and-recovery">
+  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration/tree/main/documentation">
     View Documentation →
   </a>
 </p>
