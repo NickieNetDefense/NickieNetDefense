@@ -95,9 +95,9 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
     View Topology →
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration/tree/main/screenshots">
-    View Evidence →
-  </a>
+<a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration/blob/main/documentation/evidence-index.md">
+  View Evidence →
+</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/NickieNetDefense/Windows_infrastructure_administration#troubleshooting-and-recovery">
     View Documentation →
