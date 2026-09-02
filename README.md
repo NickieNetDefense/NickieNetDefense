@@ -99,16 +99,13 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
 <p><strong>Status:</strong> In Development</p>
 
 <p>
-  Enterprise-style network administration and firewall security project focused on
-  network segmentation, VLAN architecture, subnetting, routing, DHCP, NAT, firewall
-  policy, remote-access VPN, traffic analysis, logging, and systematic troubleshooting.
-  Security controls are validated using Nmap and Wireshark to confirm permitted and
-  denied traffic across segmented network zones.
+Enterprise-style network infrastructure environment focused on segmentation, routing,
+firewall policy, secure connectivity, traffic analysis, logging, and administrative troubleshooting.
 </p>
 
 <p>
   <strong>Technologies:</strong>
-  pfSense, VLANs, TCP/IP, Subnetting, DHCP, DNS, NAT, VPN, Nmap, Wireshark, Kali Linux
+  pfSense, VLANs, TCP/IP, Subnetting, Routing, DHCP, DNS, NAT, VPN, Nmap, Wireshark, Kali Linux
 </p>
 
 <hr>
