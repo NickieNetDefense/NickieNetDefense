@@ -123,9 +123,9 @@ firewall policy, secure connectivity, traffic analysis, logging, and administrat
     View Project →
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="TOPOLOGY_LINK">
-    View Topology →
-  </a>
+<a href="https://github.com/NickieNetDefense/Network_infrastructure_administration/blob/main/diagrams/lab-architecture.png">
+  View Topology →
+</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/NickieNetDefense/Network_infrastructure_administration/blob/main/documentation/evidence-index.md">
     View Evidence →
