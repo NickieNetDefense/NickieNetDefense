@@ -66,7 +66,7 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
 <h2>🚀 Private IT Infrastructure & Security Environment</h2>
 
 <p>
-  This portfolio is built around a private, controlled virtual environment used to design,
+  This portfolio is built around a private, controlled environment used to design,
   configure, secure, troubleshoot, and validate Windows infrastructure, networking, identity,
   monitoring, vulnerability management, cloud, and incident-response workflows.
 </p>
