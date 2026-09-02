@@ -28,7 +28,7 @@ My goal is to demonstrate more than certification knowledge. Each featured proje
 
 <hr>
 
-<h2>🔧 Core Infrastructure & Security Competencies</h2>
+<h2>🔧 Infrastructure & Security Focus Areas</h2>
 
 <table>
   <tr>
